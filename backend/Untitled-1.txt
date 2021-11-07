@@ -1,0 +1,13 @@
+postgres://
+
+hibhttguhydlic
+
+:
+bf50dc542e0d492f2b668aff59034644355db17e57c94413bfb99985b47714e1
+
+@
+ec2-107-23-135-132.compute-1.amazonaws.com
+:
+5432
+/
+d1alho5tjdemri
